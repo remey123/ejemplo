@@ -12,3 +12,9 @@ except:
     print("No pude abrir el archivo")
 finally: 
     archivo.close()
+    
+    
+    print ("Archivo cerrado")
+    
+if __name__ == "__main__":
+    pass
