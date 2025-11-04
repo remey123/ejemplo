@@ -15,6 +15,7 @@ finally:
     
     
     print ("Archivo cerrado")
+    print("archivo abierto")
     
 if __name__ == "__main__":
     pass
