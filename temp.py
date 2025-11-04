@@ -14,7 +14,7 @@ finally:
     archivo.close()
     
     
-    print ("Archivo cerrado")
+    print ("Archivo abierto")
     
 if __name__ == "__main__":
     pass
